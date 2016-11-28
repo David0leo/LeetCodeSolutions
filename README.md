@@ -1,5 +1,4 @@
 # LeetCodeSolutions
-Gotta stay Leet of Course
 
 Here we just have a chunk of my solutions for LeetCode problems. Some have more details than others. Most will likely be in Python to start and slowly I'll either rewrite or rethink them up in other languages.
 
